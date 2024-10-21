@@ -1,8 +1,0 @@
-0000000000000000000000000000000000000000 fbb02bfcf094afd059d82bf2701c50deab0e3a83 Tatu Lehtola <tatu.lehtola1996@gmail.com> 1729271702 +0300	clone: from https://github.com/Tappivanukas2/Web-sovellukset-lopputy-.git
-fbb02bfcf094afd059d82bf2701c50deab0e3a83 790e0ecce81d4d39f31391110193412d05716306 Tatu Lehtola <tatu.lehtola1996@gmail.com> 1729284887 +0300	commit: Webpage first commit
-790e0ecce81d4d39f31391110193412d05716306 13a504786172eb2db88ebda0ac132a50c0e8a4fe Tatu Lehtola <tatu.lehtola1996@gmail.com> 1729529177 +0300	commit: Updates
-13a504786172eb2db88ebda0ac132a50c0e8a4fe d0e630af871f0afe69aeef50d97dbd278702ee38 Tatu Lehtola <tatu.lehtola1996@gmail.com> 1729530981 +0300	commit: some spelling error fixes
-d0e630af871f0afe69aeef50d97dbd278702ee38 aab1e23506ee87cb978824a53631b6666c23af3b Tatu Lehtola <tatu.lehtola1996@gmail.com> 1729530998 +0300	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
-aab1e23506ee87cb978824a53631b6666c23af3b 36f8219f84826c48970487685b14e19e80e4da85 Tatu Lehtola <tatu.lehtola1996@gmail.com> 1729534991 +0300	commit: Webpage without a fish table
-36f8219f84826c48970487685b14e19e80e4da85 8f7b1adbc399a0fc30d04e8471bbb3b824254b22 Tatu Lehtola <tatu.lehtola1996@gmail.com> 1729536385 +0300	commit: Last version for the course
-8f7b1adbc399a0fc30d04e8471bbb3b824254b22 de989c1783861b89129f68e3cc1c5ba7d146ad64 Tatu Lehtola <tatu.lehtola1996@gmail.com> 1729536723 +0300	commit: Update README.md
