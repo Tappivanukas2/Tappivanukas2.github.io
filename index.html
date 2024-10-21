@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web-kalareissut</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Kalareissut 2018-2021</h1>
+    <select id="locationDropdown">
+        <option value="Kaitsajoki">Kaitsajoki</option>
+        <option value="Sandfjordelva">Sandfjordelva</option>
+        <option value="Vuolajohka">Vuolajohka</option>
+        <option value="Valtijoki">Valtijoki</option>
+    </select>
+    <h2 id="locationName">Kaitsajoki</h2>
+
+    <div class="content-wrapper">
+        <div class="map-container">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1653.9201631046915!2d28.45583!3d69.44583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x45cb49c8a2af65b9%3A0x9b46049f3f7c81c4!2sKaitsajoki!5e0!3m2!1sen!2sus!4v1683737000000!5m2!1sen!2sus" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <div class="image-frame">
+            <img id="imageFrame" src="assets/images/kaitsajoki1.jpg" alt="Location Image">
+        </div>
+    </div>
+
+    <div id="videoContainer" style="display: none;">
+        <iframe width="800" height="400" src="assets/videos/samuli_vasytys.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+<!--
+    <div id="fishDataContainer">
+        <table id="fishDataTable">
+            <thead>
+                <tr>
+                    <th>Tatu</th>
+                    <th>Harri</th>
+                    <th>Markus</th>
+                    <th>Samuli</th>
+                </tr>
+                <tr>
+                    <th>Lohet: 2</th>
+                    <th>Lohet: 4</th>
+                    <th>Lohet: 7</th>
+                    <th>Lohet: 10</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+-->
+    <script src="assets/scripts/scripts.js"></script>
+</body>
+</html>
